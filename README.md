@@ -74,5 +74,5 @@ Welcome to the 7-Day Observability Tutorial Series! This repository contains the
 - **Key Learning**:
   - Learn how OpenTelemetry simplifies the process of collecting and exporting telemetry data.
   - Understand the benefits of a unified observability approach using OpenTelemetry.
-  - Gain hands-on experience with setting up OpenTelemetry Collector, Prometheus, Jaeger, and Elasticsearch to monitor a Golang microservice application.
+  - Gain hands-on experience with setting up OpenTelemetry Collector, Prometheus, Jaeger, and Elasticsearch to monitor a Golang microservice application...
 
